@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1741525232 source:c:\users\weefeex\documents\c++_tuts\c_crash_course\number_formatter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
