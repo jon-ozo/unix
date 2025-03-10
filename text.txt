@@ -1,0 +1,1 @@
+Outgoing data from node to any output device or program
