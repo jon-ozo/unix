@@ -1,8 +1,8 @@
 const process = require('node:process');
-const Pacey = require('./pacey');
+const pacey = require('pacey');
 
 const PORT = 5051;
-const server = new Pacey();
+const server = new pacey();
 
 process.on('message', (message) => {
 	console.log(`Message from parent. ${message}`);
